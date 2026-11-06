@@ -1,0 +1,21 @@
+Mean Intensity,Contrast (Std),Sharpness,Entropy,Edge Density (%),Image,Method
+105.6,75.1,7614.75,7.548,28.687,Picture1.png,Original
+105.1,68.18,35.4,7.42,3.261,Picture1.png,Gaussian LPF
+105.1,68.7,26.52,7.427,2.484,Picture1.png,Butterworth LPF
+104.6,69.6,40.71,7.465,4.067,Picture1.png,High-Boost
+155.35,74.36,22201.2,7.756,37.499,Picture2.png,Original
+154.86,45.26,20.05,7.31,4.743,Picture2.png,Gaussian LPF
+154.85,45.19,10.7,7.283,2.31,Picture2.png,Butterworth LPF
+154.36,46.77,22.32,7.374,1.387,Picture2.png,High-Boost
+156.09,58.35,6292.16,7.591,31.965,Picture3.png,Original
+155.58,45.67,13.81,7.1,2.504,Picture3.png,Gaussian LPF
+155.59,45.71,9.17,7.089,0.895,Picture3.png,Butterworth LPF
+155.09,46.99,17.89,7.163,0.113,Picture3.png,High-Boost
+123.94,33.91,2463.47,7.041,15.913,Picture4.png,Original
+123.45,30.68,6.55,6.764,0.0,Picture4.png,Gaussian LPF
+123.44,31.0,5.55,6.793,0.0,Picture4.png,Butterworth LPF
+122.94,31.45,11.09,6.822,0.0,Picture4.png,High-Boost
+118.89,51.74,276.03,7.148,4.376,Picture5.png,Original
+118.39,50.46,4.82,7.073,0.249,Picture5.png,Gaussian LPF
+118.39,50.85,4.41,7.108,0.268,Picture5.png,Butterworth LPF
+117.89,51.35,10.63,7.146,0.185,Picture5.png,High-Boost
